@@ -1,2 +1,2 @@
 # psychic-dollop
-crm tool for event management
+Creating a CRM tool for event management so that automation can be achieved with minimum effort. 
