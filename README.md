@@ -2,6 +2,7 @@
 Creating a CRM tool for event management so that automation can be achieved with minimum effort. 
 
 About this project
+
 This is an experimental CRM tool for event management, built from the perspective of a conference manager learning to code.
 
 The idea came from my experience as a conference manager/producer, where large-scale event operations often depend on multiple spreadsheets, email threads, manual trackers and repeated follow-ups. In many event teams, especially when budgets and resources are limited, the tools available do not always match the complexity of the work.
